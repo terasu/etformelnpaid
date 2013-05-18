@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/Infos" android:icon="@drawable/info" android:title="Über diese App"></item>
+    <item android:id="@+id/Tabtestlayout" android:title="Beta" android:icon="@drawable/betatest_icon" android:visible="false"></item>
+    <item android:id="@+id/exit" android:title="Beenden" android:icon="@drawable/beenden" android:visible="false"></item>
+    
+    
+
+</menu>
