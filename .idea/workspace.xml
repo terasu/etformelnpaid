@@ -78,10 +78,8 @@
       <file leaf-file-name="infos.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PaidElektrotechnikFormelnActivity/res/layout/infos.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="4" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.21571073">
-              <folding>
-                <element signature="e#580#600#0" expanded="false" />
-              </folding>
+            <state line="42" column="0" selection-start="1648" selection-end="1648" vertical-scroll-proportion="0.23690774">
+              <folding />
             </state>
           </provider>
           <provider editor-type-id="android-designer">
@@ -354,16 +352,16 @@
       <changelist id="0eccfcfc-4750-4247-a32d-fc130e6010be" name="Default" comment="" />
       <created>1368889697309</created>
       <updated>1368889697309</updated>
-      <workItem from="1368889705094" duration="201000" />
+      <workItem from="1368889705094" duration="310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201000" />
+    <option name="totallyTimeSpent" value="310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="0" width="1660" height="1010" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -453,10 +451,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PaidElektrotechnikFormelnActivity/res/layout/infos.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="4" selection-start="1653" selection-end="1653" vertical-scroll-proportion="0.21571073">
-          <folding>
-            <element signature="e#580#600#0" expanded="false" />
-          </folding>
+        <state line="42" column="0" selection-start="1648" selection-end="1648" vertical-scroll-proportion="0.23690774">
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer">
